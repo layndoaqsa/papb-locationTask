@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Mar 30 23:30:34 ICT 2020
+0.baseType=DIRECTORY
+0.base=D\:\\1. Universitas Gadjah Mada\\D4 TRPL\\2. Semester 2\\LocationTask-PAPB2\\LocationTask-PAPB2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
